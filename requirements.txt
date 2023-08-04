@@ -1,8 +1,0 @@
-tkinter
-requests
-datetime
-pyperclip
-
-pysocks
-
-urllib3
