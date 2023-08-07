@@ -1,0 +1,6 @@
+Gtkinter
+psutil
+memory_analysis
+cache_management
+memory_defragmentation
+system_monitoring
